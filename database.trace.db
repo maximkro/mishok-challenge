@@ -1,0 +1,6 @@
+2022-12-22 16:30:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TASK" not found; SQL statement:
+select task0_.id as id1_1_, task0_.description as descript2_1_, task0_.done as done3_1_, task0_.due_date as due_date4_1_, task0_.title as title5_1_ from task task0_ [42102-200]
+2022-12-22 16:33:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TASK" not found; SQL statement:
+select task0_.id as id1_1_, task0_.description as descript2_1_, task0_.done as done3_1_, task0_.due_date as due_date4_1_, task0_.title as title5_1_ from task task0_ [42102-200]
